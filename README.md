@@ -7,4 +7,4 @@ While most contemporary analyses of the Condor dictatorships focus on human righ
 
 ## Sources and notes
 
-In addition to the World Bank World Development Indicators, we also used the United Nations Food and Agriculture Organization's [FAOSTAT statistics](https://www.fao.org/faostat/en/#home). We isolated South American countries involved in operation condor for our data exploration.
+In addition to the World Bank World Development Indicators, we also used the United Nations Food and Agriculture Organization's [FAOSTAT statistics](https://www.fao.org/faostat/en/#home). We isolated South American countries involved in Operation Condor for our data exploration.
